@@ -1,1 +1,2 @@
-vse ploho
+ne ploho
+
